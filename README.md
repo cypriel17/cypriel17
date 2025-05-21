@@ -1,9 +1,9 @@
 # 💫 About Me:
 Software Engineer<br> 
 🌱 I’m currently committed to continuous learning and professional growth<br>
-💬 Ask me about Mathematics, Computer Science and Philosophy<br>
+💬 Ask me about Mathematics, Code and Philosophy/Lfe<br>
 📫 How to reach me cypriel17@gmail.com or via my socials<br>
-⚡ Fun fact I slay bugs for a living - call me debugger<br>
+⚡ I DeCode 1s and 0s Into Dreams - For A Living <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zwelithini-ngomane-61b1406b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10607611) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/cypriel17) 
