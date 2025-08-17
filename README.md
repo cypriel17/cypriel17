@@ -1,7 +1,7 @@
 # 💫 About Me:
 Software Engineer<br> 
 🌱 I’m currently committed to continuous learning and professional growth<br>
-💬 Ask me about Mathematics, Code and Philosophy/Lfe<br>
+💬 Ask me about Mathematics, Code and Philosophy/Life<br>
 📫 How to reach me cypriel17@gmail.com or via my socials<br>
 ⚡ I DeCode 1s and 0s Into Dreams - For A Living <br>
 
